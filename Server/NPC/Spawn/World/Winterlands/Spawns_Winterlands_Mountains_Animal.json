@@ -1,0 +1,17 @@
+{
+  "Environments": [
+    "Env_Thankmas_SMP_Snowy_Mountains"
+  ],
+  "NPCs": [
+    {
+      "Weight": 15,
+      "SpawnBlockSet": "IceAndSnow",
+      "Id": "Mouflon",
+      "Flock": "Group_Small"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

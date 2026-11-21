@@ -1,0 +1,17 @@
+{
+  "Environments": [
+    "Env_Thankmas_SMP_Snowy_Mountains"
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Birds",
+      "Id": "Owl_Snow",
+      "Flock": "One_Or_Two"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

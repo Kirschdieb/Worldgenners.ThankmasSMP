@@ -1,0 +1,17 @@
+{
+  "Environments": [
+    "Env_Thankmas_SMP_Snowy_Mountains"
+  ],
+  "NPCs": [
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Wolf_White",
+      "Flock": "Pack_Small"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

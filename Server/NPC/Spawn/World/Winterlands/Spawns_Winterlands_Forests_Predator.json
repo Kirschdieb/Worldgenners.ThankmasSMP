@@ -1,0 +1,28 @@
+{
+  "Environments": [
+    "Env_Thankmas_SMP_Snowy_Mountains",
+    "Env_Thankmas_SMP_Redwood_Forest",
+    "Env_Thankmas_SMP_Redwood_Forest_Snowy"
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_NoSnow",
+      "Id": "Bear_Grizzly"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_NoSnow",
+      "Id": "Snake_Cobra"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_NoSnow",
+      "Id": "Fox"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

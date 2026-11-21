@@ -1,0 +1,18 @@
+{
+  "Environments": [
+    "Env_Thankmas_SMP_Snowy_Mountains_Snowy"
+  ],
+  "NPCs": [
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "IceAndSnow",
+      "Id": "Penguin",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "IceAndSnow",
+      "Id": "Bear_Polar"
+    }
+  ]
+}
