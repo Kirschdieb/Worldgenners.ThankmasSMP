@@ -15,6 +15,11 @@
       "Biome" : "GlacierHills",
       "Min" : 0,
       "Max" : 1
+    },
+    {
+      "Biome" : "Spawn_Winterlands",
+      "Min" : 1.9,
+      "Max" : 2.1
     }
   ],
   "DefaultBiome": "Basic",
