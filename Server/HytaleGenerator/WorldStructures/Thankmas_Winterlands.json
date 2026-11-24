@@ -20,6 +20,11 @@
       "Biome" : "Spawn_Winterlands",
       "Min" : 1.9,
       "Max" : 2.1
+    },
+    {
+      "Biome" : "WinterLand_IntoVoid",
+      "Min" : 2.9,
+      "Max" : 3.1
     }
   ],
   "DefaultBiome": "Basic",

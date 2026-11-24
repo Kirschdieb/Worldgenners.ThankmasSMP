@@ -395,19 +395,19 @@
 										"Type":	"Manual",
 										"Points":	[{
 												"$NodeId":	"CurvePoint.Curve-6f296764-ba18-445c-bb89-894602f6bd43",
-												"In":	220.0,
+												"In":	120.0,
 												"Out":	0.0
 											}, {
 												"$NodeId":	"CurvePoint.Curve-2abc8d10-41d5-4c6b-962b-28b646f5951e",
-												"In":	215.0,
+												"In":	115.0,
 												"Out":	0.4
 											}, {
 												"$NodeId":	"CurvePoint.Curve-41ba2451-5b6f-4366-b444-b72aa193adbc",
-												"In":	210.0,
+												"In":	110.0,
 												"Out":	0.6
 											}, {
 												"$NodeId":	"CurvePoint.Curve-e2c513f4-1e9b-4807-a42e-6b4190614649",
-												"In":	205.0,
+												"In":	105.0,
 												"Out":	1.0
 											}, {
 												"$NodeId":	"CurvePoint.Curve-cc25b9e9-1183-474f-9c1d-d5199bc011da",

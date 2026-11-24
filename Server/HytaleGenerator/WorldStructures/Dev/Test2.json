@@ -1,7 +1,7 @@
 {
   "Type": "NoiseRange",
   "Biomes": [],
-  "DefaultBiome": "Spawn_Winterlands",
+  "DefaultBiome": "WinterLand_IntoVoid",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance": 32,
   "Density": {
