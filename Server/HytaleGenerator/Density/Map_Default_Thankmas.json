@@ -34,7 +34,7 @@
 													"$NodeId":	"Imported.Density-593fec12-6046-422f-8f99-bb8c145d64f9",
 													"Type":	"Imported",
 													"Skip":	false,
-													"Name":	"GlacierDistributionTest"
+													"Name":	"GlacierDistribution"
 												}]
 										}]
 								}, {
@@ -117,7 +117,7 @@
 									"Inputs":	[{
 											"$NodeId":	"YOverride.Density-e8ecf5d0-5fc9-4648-83da-81bad31b8dcc",
 											"Type":	"YOverride",
-											"ExportAs":	"GlacierDistributionTest",
+											"ExportAs":	"GlacierDistribution",
 											"Skip":	false,
 											"Value":	0.0,
 											"Inputs":	[{
@@ -143,7 +143,7 @@
 																	"Inputs":	[{
 																			"$NodeId":	"SimplexNoise2D.Density-13d1fc16-fc35-42e2-a67d-564fd8df90b8",
 																			"Type":	"SimplexNoise2D",
-																			"ExportAs":	"",
+																			"ExportAs":	"Glacier_Biome_Base_Map",
 																			"Skip":	false,
 																			"Lacunarity":	2.0,
 																			"Persistence":	0.9,

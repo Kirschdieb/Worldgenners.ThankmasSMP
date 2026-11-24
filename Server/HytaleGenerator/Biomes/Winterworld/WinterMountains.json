@@ -1554,9 +1554,9 @@
 																																		"Skip":	false,
 																																		"Scale":	{
 																																			"$NodeId":	"Decimal.Vector3d-b9036b02-c9fb-485c-94ec-89ab41872f29",
-																																			"X":	20.0,
-																																			"Y":	20.0,
-																																			"Z":	20.0
+																																			"X":	25.0,
+																																			"Y":	25.0,
+																																			"Z":	25.0
 																																		},
 																																		"Positions":	{
 																																			"$NodeId":	"TriangularGrid2d.Positions-f211ebcd-41e1-4357-9058-66e9aec98cf6",
