@@ -45,16 +45,16 @@
 															"$NodeId":	"PositionsCellNoise.Density-462ec632-544f-4816-9ab0-58d0f58678d7",
 															"Type":	"PositionsCellNoise",
 															"Skip":	false,
-															"MaxDistance":	300.0,
+															"MaxDistance":	4000.0,
 															"Positions":	{
 																"$NodeId":	"Scaler.Positions-0582056e-bf0a-468c-8416-a2e2ab10a6c2",
 																"Type":	"Scaler",
 																"Skip":	false,
 																"Scale":	{
 																	"$NodeId":	"Decimal.Vector3d-8cfab452-3ba6-46c0-bc08-dddd182ff116",
-																	"X":	300.0,
+																	"X":	400.0,
 																	"Y":	1.0,
-																	"Z":	300.0
+																	"Z":	400.0
 																},
 																"Positions":	{
 																	"$NodeId":	"Jitter2d.Positions-0808fdbd-7096-4cb3-9e77-47665cb2753b",
@@ -75,7 +75,7 @@
 																	"$NodeId":	"WhiteNoise.Density-18b55424-291f-4d2e-a8c4-037c2de1722d",
 																	"Type":	"WhiteNoise",
 																	"Skip":	false,
-																	"Seed":	"2"
+																	"Seed":	"randomizers"
 																},
 																"DefaultValue":	0.0
 															},
@@ -599,6 +599,24 @@
 					"$y":	3271
 				}
 			},
+			"SimpleHorizontal.MaterialProvider-edceee36-9afd-485f-9ef6-7232925db802":	{
+				"$Position":	{
+					"$x":	232,
+					"$y":	3575
+				}
+			},
+			"Constant.MaterialProvider-5c0bbd8f-8fb9-4ba7-b500-92e544ff7c8e":	{
+				"$Position":	{
+					"$x":	828,
+					"$y":	3675
+				}
+			},
+			"Material-337e85cb-c3aa-4522-9d08-e8161b97f19f":	{
+				"$Position":	{
+					"$x":	1424,
+					"$y":	3675
+				}
+			},
 			"Constant.MaterialProvider-79f12b5b-cb87-4a81-9365-44412fa87ce0":	{
 				"$Position":	{
 					"$x":	232,
@@ -885,24 +903,6 @@
 				"$Position":	{
 					"$x":	8310,
 					"$y":	-12894
-				}
-			},
-			"SimpleHorizontal.MaterialProvider-edceee36-9afd-485f-9ef6-7232925db802":	{
-				"$Position":	{
-					"$x":	232,
-					"$y":	3575
-				}
-			},
-			"Constant.MaterialProvider-5c0bbd8f-8fb9-4ba7-b500-92e544ff7c8e":	{
-				"$Position":	{
-					"$x":	828,
-					"$y":	3675
-				}
-			},
-			"Material-337e85cb-c3aa-4522-9d08-e8161b97f19f":	{
-				"$Position":	{
-					"$x":	1424,
-					"$y":	3675
 				}
 			}
 		},
