@@ -4,7 +4,6 @@
     "$binary": "Bld1dFytQaSp73CVK65JXA==",
     "$type": "04"
   },
-  "Seed": 1794277830506,
   "WorldGen": {
     "Type": "HytaleGenerator",
     "WorldStructure": "Breach"
