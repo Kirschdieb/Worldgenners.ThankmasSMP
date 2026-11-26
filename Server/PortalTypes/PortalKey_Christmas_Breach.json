@@ -1,0 +1,26 @@
+{
+  "InstanceId": "Thankmas_Breach",
+  "Description": {
+    "DisplayName": "Worldgen.portals.Christmas_Breach.name",
+    "FlavorText": "Worldgen.portals.Christmas_Breach.description",
+    "ThemeColor": "#3464d6",
+    "SplashImage": "DefaultArtwork.png"
+  },
+  "TimeLimitSeconds": 1200,
+  "AllowPlayersToLeaveViaMap": true,
+  "Spawn": {
+    "SpawnReturnPortal": false,
+    "SpawnProviderOverride": {
+      "Id": "FitToHeightMap",
+      "SpawnProvider": {
+        "Id": "Global",
+        "SpawnPoint": {
+          "Z": -250,
+          "Y": 200
+        }
+      }
+    }
+  },
+  "AllowedEntryCount": 0,
+  "GameplayConfig": "Portal"
+}

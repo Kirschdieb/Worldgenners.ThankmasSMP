@@ -1,0 +1,153 @@
+{
+  "WaterTint": "#83b7ff",
+  "SpawnDensity": 1.5,
+  "Tags": {
+    "Zone3": []
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Candy_Weather",
+        "Weight": 0
+      }
+    ]
+  }
+}

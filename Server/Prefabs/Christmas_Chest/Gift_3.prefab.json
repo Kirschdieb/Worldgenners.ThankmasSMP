@@ -204,6 +204,14 @@
     },
     {
       "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -1,
       "y": 3,
       "z": -1,
       "name": "Soil_Clay_Smooth_Pink"
@@ -213,6 +221,14 @@
       "y": 0,
       "z": 0,
       "name": "Soil_Clay_Smooth_Red2"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
     },
     {
       "x": -1,
@@ -242,6 +258,14 @@
     },
     {
       "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": -1,
       "y": 3,
       "z": 1,
       "name": "Soil_Clay_Smooth_Pink"
@@ -338,151 +362,8 @@
       "x": 0,
       "y": 1,
       "z": -1,
-      "name": "*Furniture_Christmas_Chest_Small_White_State_Definitions_CloseWindow",
-      "components": {
-        "Components": {
-          "ItemContainerBlock": {
-            "ItemContainer": {
-              "Capacity": 18,
-              "Items": {
-                "0": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "2": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "6": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "4": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "15": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "14": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "12": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "13": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "8": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "9": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "11": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "10": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "1": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "3": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "7": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "5": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "16": {
-                  "Id": "Ingredient_Bar_Copper",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "17": {
-                  "Id": "Food_Candy_Cane",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "OverrideDroppedItemAnimation": false
-                }
-              }
-            },
-            "Capacity": 18
-          },
-          "PlacedByInteraction": {
-            "WhoPlacedUuid": {
-              "$binary": "xInq4uGgQbareScXPPOcVg==",
-              "$type": "04"
-            }
-          }
-        }
-      }
+      "name": "Deco_Giftbox",
+      "support": 15
     },
     {
       "x": 0,
@@ -506,7 +387,9 @@
       "x": 0,
       "y": 1,
       "z": 0,
-      "name": "Deco_Goblin_Plush"
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 2
     },
     {
       "x": 0,
@@ -529,6 +412,22 @@
     },
     {
       "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 2
+    },
+    {
+      "x": 0,
       "y": 3,
       "z": 1,
       "name": "Soil_Clay_Smooth_Red2"
@@ -626,6 +525,14 @@
       "y": 0,
       "z": -1,
       "name": "Soil_Clay_Smooth_Pink"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Deco_Giftbox_Flat",
+      "support": 15,
+      "rotation": 3
     },
     {
       "x": 1,
@@ -638,6 +545,14 @@
       "y": 0,
       "z": 0,
       "name": "Soil_Clay_Smooth_Red2"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Gift_Stack",
+      "support": 15,
+      "rotation": 3
     },
     {
       "x": 1,
@@ -663,6 +578,22 @@
       "y": 0,
       "z": 1,
       "name": "Soil_Clay_Smooth_Pink"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Deco_Kweebec_Plush",
+      "support": 15,
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Deco_Giftbox",
+      "support": 15,
+      "rotation": 3
     },
     {
       "x": 1,
@@ -1089,6 +1020,13 @@
     },
     {
       "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
       "y": 3,
       "z": -1,
       "name": "Empty",
@@ -1097,6 +1035,13 @@
     {
       "x": -1,
       "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -1131,6 +1076,13 @@
     },
     {
       "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
       "y": 3,
       "z": 1,
       "name": "Empty",
@@ -1292,6 +1244,20 @@
     },
     {
       "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
       "y": 3,
       "z": 1,
       "name": "Empty",
@@ -1404,6 +1370,13 @@
     },
     {
       "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
       "y": 3,
       "z": -1,
       "name": "Empty",
@@ -1412,6 +1385,13 @@
     {
       "x": 1,
       "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
       "z": 0,
       "name": "Empty",
       "level": 0
@@ -1440,6 +1420,20 @@
     {
       "x": 1,
       "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
       "z": 1,
       "name": "Empty",
       "level": 0

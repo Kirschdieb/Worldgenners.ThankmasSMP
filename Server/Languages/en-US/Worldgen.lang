@@ -1,0 +1,5 @@
+portals.Christmas_Breach.name = The Festive Fracture
+portals.Christmas_Breach.description = A world formed from the Thankmas Spirit, fractured across the minds of every inhabitant of Orbis. Reality is warped in strange ways here.
+
+items.PortalKey_Christmas_Breach.name = Fragment: Orbis - The Festive Fracture
+items.PortalKey_Christmas_Breach.description = <msg key="server.items.PortalKey.usage"/>\n\n<i>A world formed from the Thankmas Spirit, fractured across the minds of every inhabitant of Orbis. Reality is warped in strange ways here.</i>
